@@ -1,2 +1,4 @@
 # hello-world
-Hello to GitHub
+Hello to GitHub. 
+
+This is Millette starting to learn about GitHub. 
